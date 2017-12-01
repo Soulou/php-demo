@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello Chargemap !";
+echo "Hello Chargemap ! v2";
 
 ?>
 
